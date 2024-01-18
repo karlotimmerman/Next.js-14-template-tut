@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@pieces.app/pieces-os-client": "^1.2.2"
+  }
+}
